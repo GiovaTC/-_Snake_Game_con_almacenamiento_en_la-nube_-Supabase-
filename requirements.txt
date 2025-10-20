@@ -1,1 +1,3 @@
-# Dependencias del proyecto
+# Dependencias del proyecto . 
+pygame
+requests
